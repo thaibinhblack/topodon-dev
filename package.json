@@ -1,0 +1,20 @@
+{
+  "name": "npm-typescript-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepare" : "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ]
+}
