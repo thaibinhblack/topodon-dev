@@ -1,5 +1,5 @@
 # topodon.js
-**Strongly-typed official Misskey SDK for browsers/Node.js.**
+**Strongly-typed official Topodon SDK for browsers/Node.js.**
 
 ## Install
 ```
